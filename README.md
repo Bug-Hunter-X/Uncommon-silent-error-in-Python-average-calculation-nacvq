@@ -1,0 +1,1 @@
+This repository demonstrates a silent error that can occur in Python when calculating the average of a list of numbers. The function calculate_average handles the case of an empty list by returning 0, instead of raising an exception which would be more useful in detecting the error.
